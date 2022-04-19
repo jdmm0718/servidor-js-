@@ -1,0 +1,28 @@
+{
+  "name": "serverjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmm0718/servidor-js-.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodemon",
+    "express"
+  ],
+  "author": "Juan David Murillo Mejia \"juandavidmm0718@gmail.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdmm0718/servidor-js-/issues"
+  },
+  "homepage": "https://github.com/jdmm0718/servidor-js-#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
